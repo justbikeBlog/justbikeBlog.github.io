@@ -14,7 +14,7 @@ body {
 /* LEFT HALF */
 
 .main-left-column {
-    background: linear-gradient(#00BFFF, #191970);
+    background: linear-gradient(#696969, #DCDCDC);
     background-attachment: fixed;
     overflow: hidden;
     height: 100vh;
